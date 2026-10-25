@@ -1,4 +1,4 @@
-package Class_8.ProducerConsumerSynchronized;
+package Class_9.ProducerConsumerSynchronized;
 
 import java.util.ArrayDeque;
 import java.util.Queue;

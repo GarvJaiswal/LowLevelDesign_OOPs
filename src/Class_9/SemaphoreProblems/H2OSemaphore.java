@@ -1,4 +1,4 @@
-package Class_8.SemaphoreProblems;
+package Class_9.SemaphoreProblems;
 
 import java.util.concurrent.Semaphore;
 
